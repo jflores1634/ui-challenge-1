@@ -1,0 +1,39 @@
+.a {
+  background-color: purple;
+  display: block;
+  padding: 25px;
+}
+
+.b {
+  display: block;
+  background-color: yellow;
+  padding: 50px;
+}
+
+.wrapper-c-d {
+  background-color: green;
+  display: block;
+  padding: 50px;
+}
+
+.wrapper-c-d li {
+  list-style: none;
+}
+
+.wrapper-efgh {
+  background-color: blue;
+  display: inline-block;
+  padding: 50px;
+}
+
+.wrapper-efgh li {
+  float: right;
+  list-style: none;
+}
+
+.i {
+  clear: right;
+  display: block;
+  background-color: red;
+  padding: 25px;
+}

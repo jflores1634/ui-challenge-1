@@ -1,0 +1,51 @@
+@media only screen and (min-width: 780px) {
+    body {
+        width: 960px;
+        height: 768px;
+        margin: 0 auto;
+    }
+
+  .a {
+    background-color: purple;
+    display: block;
+    padding: 25px;
+  }
+
+  .b {
+    float: left;
+    display: inline-block;
+    background-color: yellow;
+    padding: 50px;
+    height: 600px;
+  }
+
+  .wrapper-c-d li {
+    width: 200px;
+    display: inline-block;
+  }
+
+  .wrapper-c-d li {
+    background-color: green;
+    display: inline-block;
+    list-style: none;
+    margin: 0;
+    padding: 50px;
+  }
+
+  .wrapper-efgh li {
+    background-color: blue;
+    display: inline-block;
+    list-style: none;
+    padding: 50px;
+  }
+
+
+  .i {
+    clear: right;
+    display: block;
+    background-color: red;
+    padding: 25px;
+    margin-top: 599px;
+  }
+
+}
